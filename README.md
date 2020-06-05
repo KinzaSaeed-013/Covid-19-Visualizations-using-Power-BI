@@ -1,0 +1,2 @@
+# Covid-19-Visualizations-using-Power-BI
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. The best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face. 
